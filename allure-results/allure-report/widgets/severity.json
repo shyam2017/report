@@ -1,0 +1,11 @@
+[ {
+  "uid" : "3f7d3bb18c10038",
+  "name" : "VerifyAttributeAssignment",
+  "time" : {
+    "start" : 1536172962404,
+    "stop" : 1536172978009,
+    "duration" : 15605
+  },
+  "status" : "failed",
+  "severity" : "normal"
+} ]

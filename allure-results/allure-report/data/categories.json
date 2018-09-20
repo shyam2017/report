@@ -1,0 +1,25 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "TimeoutException: Expected condition failed: Application Menu element with locator 'By.xpath: //a[contains(text(),'Applications')]' is not visible. (tried for 5 second(s) with 500 MILLISECONDS interval)",
+      "children" : [ {
+        "name" : "VerifyAttributeAssignment",
+        "uid" : "3f7d3bb18c10038",
+        "parentUid" : "a88d75822c9b9027b1ddcbd42c0143d3",
+        "status" : "failed",
+        "time" : {
+          "start" : 1536172962404,
+          "stop" : 1536172978009,
+          "duration" : 15605
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a88d75822c9b9027b1ddcbd42c0143d3"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

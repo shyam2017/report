@@ -1,0 +1,22 @@
+{
+  "abacaf9aeb924974c5aab0080e7b2430" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3f7d3bb18c10038",
+      "status" : "failed",
+      "statusDetails" : "TimeoutException: Expected condition failed: Application Menu element with locator 'By.xpath: //a[contains(text(),'Applications')]' is not visible. (tried for 5 second(s) with 500 MILLISECONDS interval)",
+      "time" : {
+        "start" : 1536172962404,
+        "stop" : 1536172978009,
+        "duration" : 15605
+      }
+    } ]
+  }
+}

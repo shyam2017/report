@@ -1,0 +1,25 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "SE07TWDNSFC0055",
+    "children" : [ {
+      "name" : "55928@SE07TWDNSFC0055.pool-1-thread-1(12)",
+      "children" : [ {
+        "name" : "VerifyAttributeAssignment",
+        "uid" : "3f7d3bb18c10038",
+        "parentUid" : "f3c1a2f0883f5ac5193cfe6c63314085",
+        "status" : "failed",
+        "time" : {
+          "start" : 1536172962404,
+          "stop" : 1536172978009,
+          "duration" : 15605
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f3c1a2f0883f5ac5193cfe6c63314085"
+    } ],
+    "uid" : "26ac62bdfaad415663e741a10600aeb5"
+  } ]
+}
